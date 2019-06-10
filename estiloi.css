@@ -1,0 +1,36 @@
+html{
+	background-color: #03464A;
+}
+#cabezita{
+		background-color: #950505;
+		text-align: center;
+}
+#piecesito{
+	background-color: #950505;  
+	clear: both;  
+	margin-top: 30px;  
+	text-align: center; 
+	padding: 10px;  
+	border-top: 10px solid #C19309; 
+
+}
+#lienzitooo1{
+	float: left;
+	margin: auto;
+}
+#lienzitooo2{
+	float: right;
+	margin: auto;
+}
+#lienzitooo3{
+	float: left;
+	margin: auto;
+}
+#lienzitooo4{
+	float: right;
+	margin: auto;
+}
+#lienzitooo5{
+	float: center;
+	margin: auto;
+}
